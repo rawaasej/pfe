@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915777342044",
+    "project_id": "appflutter-d260e",
+    "storage_bucket": "appflutter-d260e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915777342044:android:c6fce0b1077ae66e743499",
+        "android_client_info": {
+          "package_name": "com.example.maintenance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38uRvy3Rpcsc0AQczwjb9amY-TdJDc7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
